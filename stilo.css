@@ -14,6 +14,13 @@
   --preto-titulo: #000;
 }
 
+.texto__cabecalho {
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+  font-family: "DM Serif Display", serif ;
+}
+
 body {
   background-color: var(--verde-fundo);
   color: var(--branco-principal);
@@ -48,7 +55,7 @@ a:active {
 }
 
 .cabecalho {
-  background-image: url("4.png");
+  background-image: url("itaipu.png");
 }
 .img {
   width: 100%;

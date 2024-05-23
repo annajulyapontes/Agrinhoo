@@ -15,10 +15,10 @@
 }
 
 .texto__cabecalho {
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 400;
-  color: white;
-  font-family: "DM Serif Display", serif ;
+  color: #5fb13b;
+  font-family: "Poetsen One", sans-serif;
 }
 
 body {
@@ -34,7 +34,7 @@ a:link {
   color: var(--link);
 }
 a.cabecalho__botao:link {
-  color: #fff;
+  color: #5fb13b;
 }
 a:visited {
   color: var(--branco-principal);
@@ -52,6 +52,9 @@ a:active {
 .container {
   margin-top: 50px;
   display: flex;
+}
+.container img{
+  width: 45%;
 }
 
 .cabecalho {
@@ -83,13 +86,15 @@ a:active {
   margin-top: 5%;
   font-size: 25px;
   font-weight: 400;
+  font-family: "Poetsen One", sans-serif;
 }
 a.cabecalho__botao {
   width: 180px;
   height: 30px;
-  color: #fff;
+  color: #5fb13b;
   padding: 20px;
-  border: 5px solid #fff;
+  border: 5px solid #5fb13b;
+  text-align: center;
 }
 
 .secao1__descricao {
@@ -98,8 +103,9 @@ a.cabecalho__botao {
 .secao1__titulo {
   font-weight: 700;
   font-size: 48px;
-  color: var(--preto-titulo);
+  color: var(--verde-principal);
   margin-bottom: 0.2em;
+  font-family: "Poetsen One", sans-serif;
 }
 .secao1__texto {
   margin-top: 35px;
@@ -108,10 +114,12 @@ a.cabecalho__botao {
 }
 
 .secao2__img__titulo {
-  color: var(--preto-titulo);
+  color: var(--verde-principal);
   font-weight: 700;
-  font-size: 48px;
+  font-size: 60px;
   margin-left: 40px;
+  font-family: "Poetsen One", sans-serif;
+  text-align: center;
 }
 .secao2__img__subtitulo {
   margin-top: 35px;
@@ -171,9 +179,12 @@ a.cabecalho__botao {
   justify-content: space-between;
   align-items: center;
   font-size: 20px;
+  text-align: center;
 }
 .secao4__titulo {
-  font-size: 50px;
+  font-size: 70px;
+  font-family: "Poetsen One", sans-serif;
+  color: #5fb13b;
 }
 .secao4__imagem img {
   width: 100%;

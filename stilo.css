@@ -123,19 +123,22 @@ a.cabecalho__botao {
 }
 .secao2__img__subtitulo {
   margin-top: 35px;
-  color: var(--preto-titulo);
+  color: black;
   font-size: 25px;
+  font-family: var(--fonte-principal);
 }
 .secao1__descricao,
 .secao2__img__subtitulo {
   padding: 2em;
 }
-.secao2__imagens {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: space-between;
-  padding: 2em;
+
+.secao2__imagem{
+  margin-left: 30px;
+  height: 75%;
+  width: 75%;
+  margin-left: 185px;
 }
+
 .secao2__imagens img {
   width: 95%;
 }
@@ -146,6 +149,7 @@ a.cabecalho__botao {
   margin-top: 35px;
   color: var(--preto-titulo);
   font-size: 30px;
+  font-family: var(--fonte-principal);
 }
 
 .secao3__imagem {
@@ -181,6 +185,7 @@ a.cabecalho__botao {
   font-size: 20px;
   text-align: center;
 }
+
 .secao4__titulo {
   font-size: 70px;
   font-family: "Poetsen One", sans-serif;

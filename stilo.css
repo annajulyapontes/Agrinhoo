@@ -212,8 +212,9 @@ a.cabecalho__botao {
   display: none;
 }
 .aba-conteudo-titulo-principal{
-  font-size: 28px;
+  font-size: 45px;
   text-align: center;
+  font-family: "Poetsen One", sans-serif;;
 }
 .aba-conteudo-titulo-secundario{
   text-align: center;

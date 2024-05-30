@@ -153,15 +153,18 @@ a.cabecalho__botao {
 }
 
 .secao3__imagem {
-  background-image: url("uvas.png");
+  background-image: url("itaipufinal2.png");
 }
 .secao3__texto {
   margin: 30% 0 30% 0;
 }
 .secao3__info {
-  width: 95%;
+  width: 100%;
   padding: 1em;
   text-align: center;
+  font-family: "Poetsen One", sans-serif;
+  color: #5fb13b;
+  font-size: 55px;
 }
 
 .secao4__titulo,
@@ -411,9 +414,7 @@ a.cabecalho__botao {
     padding: 1em;
     margin-bottom: 30%;
   }
-  .secao3__texto p {
-    text-align: center;
-  }
+
   .secao3__texto h2 {
     margin: 50% 0 50% 0;
   }

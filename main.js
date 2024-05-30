@@ -1,6 +1,6 @@
 const textos = document.querySelectorAll(".aba-conteudo");
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2024-05-29T00:00:00");
+const tempoObjetivo1 = new Date("2024-11-04T00:00:00");
 
 const tempo = tempoObjetivo1 ;
 

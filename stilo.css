@@ -121,14 +121,14 @@ a.cabecalho__botao {
   font-family: "Poetsen One", sans-serif;
   text-align: center;
 }
-.secao2__img__subtitulo {
+.secao2__subtitulo {
   margin-top: 35px;
   color: black;
   font-size: 25px;
   font-family: var(--fonte-principal);
 }
 .secao1__descricao,
-.secao2__img__subtitulo {
+.secao2__subtitulo {
   padding: 2em;
 }
 
@@ -145,7 +145,7 @@ a.cabecalho__botao {
 .secao2__titulo {
   margin: 50px 0px 30px 0px;
 }
-.secao2__subtitulo h2 {
+.secao2__subtitulo h {
   margin-top: 35px;
   color: var(--preto-titulo);
   font-size: 30px;
@@ -312,7 +312,7 @@ a.cabecalho__botao {
     font-size: 38px;
     text-align: center;
   }
-  .secao2__subtitulo h2 {
+  .secao2__img__subtitulo h {
     font-size: 20px;
     text-align: center;
   }
@@ -405,7 +405,7 @@ a.cabecalho__botao {
   .secao2__img__titulo {
     text-align: center;
   }
-  .secao2__subtitulo h2 {
+  .secao2__subtitulo h {
     font-size: 25px;
   }
 
@@ -442,4 +442,18 @@ a.cabecalho__botao {
     font-size: 25px;
     margin-bottom: 10px;
   }
+}
+.secao5_titulo{
+  font-size: 70px;
+  font-family: "Poetsen One", sans-serif;
+  color: #5fb13b;
+  text-align: center;
+}
+.secao5_subtitulo h{
+  margin-top: 35px;
+  color: var(--preto-titulo);
+  font-size: 30px;
+  font-family: var(--fonte-principal);
+  padding: 2em;
+  
 }

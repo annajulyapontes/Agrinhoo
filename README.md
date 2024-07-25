@@ -3,7 +3,7 @@
 - ### Sou aluna do Colégio Estadual Rio Branco e estou no 2º ano do ensino médio. O qual faz parte do NRE de Ivaiporã.
   
 - ### Link do projeto no Github pages:
-- 
+  
 - ### Link do projeto no Vercel:
  
 - ### Link dos sites onde retirei as imagens:
@@ -15,7 +15,7 @@
 - ### Link do video no YouTube:
   https://youtu.be/Ld-UAk-mmA4
 - ### Foi utilizado o Chat GPT, foi usado para auxilio da escrita presente no site. Link do site da IA:
-- https://chatgpt.com/
+  https://chatgpt.com/
 - ### Utilizado nos dias 22/05/24, 24/05/24, 25/06/24.
 - ### A frase "Líder mundial na geração de energia limpa e renovável" foi retirada do site: 
   https://www.itaipu.gov.br/

@@ -8,7 +8,7 @@
  
 - ### Link dos sites onde retirei as imagens:
   https://epbr.com.br/itaipu-tarifa-definitiva-de-repasse-sera-de-us-2023-kw-em-2023/
-https://sites.usp.br/portalatinoamericano/espanol-itaipu-binacional
+    https://sites.usp.br/portalatinoamericano/espanol-itaipu-binacional
   https://www.civitatis.com/br/foz-do-iguacu/excursao-usina-itaipu/
 
 - ### Link dos sites onde retirei o vídeo:

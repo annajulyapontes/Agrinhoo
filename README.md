@@ -10,17 +10,14 @@
   https://epbr.com.br/itaipu-tarifa-definitiva-de-repasse-sera-de-us-2023-kw-em-2023/
   https://sites.usp.br/portalatinoamericano/espanol-itaipu-binacional
   https://www.civitatis.com/br/foz-do-iguacu/excursao-usina-itaipu/
-
-- ### Link dos sites onde retirei o vídeo:
+- ### Link do site onde retirei o vídeo:
   https://www.itaipu.gov.br/
 - ### Link do video no YouTube:
   https://youtu.be/Ld-UAk-mmA4
-
-- ### Foi utilizado o Chat GPT, esta inteligencia artificial foi usada para auxilio da escrita presente no site.
+- ### Foi utilizado o Chat GPT, foi usado para auxilio da escrita presente no site. Link do site da IA:
 - https://chatgpt.com/
-- 
 - ### Utilizado nos dias 22/05/24, 24/05/24, 25/06/24.
 - ### A frase "Líder mundial na geração de energia limpa e renovável" foi retirada do site: 
   https://www.itaipu.gov.br/
-  
-- ### Também foi utilizado o emblema da empresa Itaipu Binacional, 
+- ### Também foi utilizado o emblema da empresa Itaipu Binacional, segue o link do site onde foi retirado a imagem:
+  https://www.itaipu.gov.br/

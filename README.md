@@ -14,6 +14,8 @@
 - ### Link dos sites onde retirei o vídeo:
 
 - ### Foi utilizado o Chat GPT, esta inteligencia artificial foi usada para auxilio da escrita presente no site.
+- https://chatgpt.com/
+### - Utilizado nos dias 22/05/24, 24/05/24, 25/06/24.
 - ### A frase "Líder mundial na geração de energia limpa e renovável" foi retirada do site: 
   https://www.itaipu.gov.br/
 

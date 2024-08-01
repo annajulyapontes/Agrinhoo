@@ -5,7 +5,7 @@
 - ### Link do projeto no Github pages:
   
 - ### Link do projeto no Vercel:
- 
+  https://vercel.com/annajulyapontes-projects/agrinhoo
 - ### Link dos sites onde retirei as imagens:
   https://epbr.com.br/itaipu-tarifa-definitiva-de-repasse-sera-de-us-2023-kw-em-2023/
   https://sites.usp.br/portalatinoamericano/espanol-itaipu-binacional

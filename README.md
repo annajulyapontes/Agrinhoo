@@ -3,7 +3,7 @@
 - ### Sou aluna do Colégio Estadual Rio Branco e estou no 2º ano do ensino médio. O qual faz parte do NRE de Ivaiporã.
   
 - ### Link do projeto no Github pages:
-  
+  https://annajulyapontes.github.io/Agrinhoo/
 - ### Link do projeto no Vercel:
   https://vercel.com/annajulyapontes-projects/agrinhoo
 - ### Link dos sites onde retirei as imagens:
